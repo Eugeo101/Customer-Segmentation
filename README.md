@@ -83,7 +83,7 @@ Used **Bayesian GMM (BGMM)** to categorize clusters:
 ## 🔧 Tools and Libraries  
 - **Python:** Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn.  
 - **Clustering:** KMeans, DBSCAN, Gaussian Mixture Models, Bayesian GMM.  
-- **Dimensionality Reduction:** t-SNE, MDS, Isomap, LLE.  
+- **Dimensionality Reduction:** t-SNE.  
 - **Validation Metrics:** AIC, BIC, Silhouette Scores.  
 
 ---
