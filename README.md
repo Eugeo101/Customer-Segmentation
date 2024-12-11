@@ -23,9 +23,6 @@ Segment customers based on **Recency**, **Frequency**, and **Monetary** (RFM) at
 ### 2️⃣ Data Visualization  
 - Visualized high-dimensional data using techniques:  
   - **t-SNE (t-distributed Stochastic Neighbor Embedding)**  
-  - **MDS (Multidimensional Scaling)**  
-  - **Isomap**  
-  - **LLE (Locally Linear Embedding)**  
 - Used t-SNE to uncover clustering patterns and select appropriate clustering techniques.  
 
 ---
